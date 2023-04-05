@@ -22,8 +22,7 @@ public class Main {
                 break;
             }
         }
-    }
-}
+
 
     int chance = 1 ;
 
@@ -31,7 +30,6 @@ public class Main {
 
                 int strike = 0;
                 int ball = 0;
-//            int out = 0;
 
                 System.out.print(chance+ "번째 시도 : ");
 
